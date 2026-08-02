@@ -5,6 +5,8 @@ BSc Information Technology student focused on **workflow automation, AI integrat
 📍 Midrand, South Africa | 🎓 BSc IT (Richfield) — Expected 2027
 🔗 [LinkedIn](https://linkedin.com/in/mabrand-mosala) | 📧 mabrandmosala@gmail.com
 
+![Python](https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sqlite,gcp)
+
 ---
 
 ## What I do
