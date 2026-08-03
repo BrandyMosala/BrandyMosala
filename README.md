@@ -18,11 +18,6 @@ I identify manual processes, redesign them as automated workflows, and document 
 - **Process improvement** — mapping current-state processes, identifying inefficiencies, designing scalable future-state workflows
 - **Data & programming foundations** — Python, SQL, OOP principles
 
-- ![Stats](https://github-readme-stats.vercel.app/api?username=BrandyMosala&show_icons=true&theme=transparent&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333)
-
-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandyMosala&theme=transparent&hide_border=true&ring=1F3864&fire=1F3864)
-
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=BrandyMosala&theme=flat&no-frame=true&column=6)
 
 ---
 
