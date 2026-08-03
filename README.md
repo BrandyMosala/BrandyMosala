@@ -1,11 +1,12 @@
 # Hi, I'm Mabrand 👋
 
+
 BSc Information Technology student focused on **workflow automation, AI integration, and process improvement**. I build no-code/low-code pipelines that turn manual, repetitive work into reliable automated systems.
 
 📍 Midrand, South Africa | 🎓 BSc IT (Richfield) — Expected 2027
 🔗 [LinkedIn](https://linkedin.com/in/mabrand-mosala) | 📧 mabrandmosala@gmail.com
 
-![Python](https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sqlite,gcp)
+![Python](https://skillicons.dev/icons?i=python,cpp,git,github,vscode,mysql)
 
 ---
 
